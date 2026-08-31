@@ -53,13 +53,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=10.2-Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -70,7 +70,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RNEBKQHB
 
 [Document2]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=Sensors.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,7 +87,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PKQDAAWW
 
 [Document3]
-DocumentPath=PcbLib2.PcbLib
+DocumentPath=..\..\..\..\Task10\MIA_Task10.2-Sensors_Shared\PcbLib2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,7 +104,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VSMOGYVW
 
 [Document4]
-DocumentPath=Schlib2.SchLib
+DocumentPath=..\..\..\..\Task10\MIA_Task10.2-Sensors_Shared\Schlib2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
