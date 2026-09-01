@@ -1,0 +1,50 @@
+Protel Design System Design Rule Check
+PCB File : D:\Mia\Guido-PitCrew-Boards\PCB1.PcbDoc
+Date     : 9/1/2026
+Time     : 12:04:16 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q1-2(3091.024mil,3872.03mil) on Top Layer And Pad C5-1(3165mil,3585mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q2-2(2847.032mil,3608.976mil) on Top Layer And Pad C5-1(3165mil,3585mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1(3165mil,3585mil) on Top Layer And Track (3355.707mil,3525mil)(3397.775mil,3567.068mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q4-2(2837.402mil,3356.26mil) on Top Layer And Pad Q2-2(2847.032mil,3608.976mil) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=80mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (2760mil,3995mil)(2793.394mil,3995mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:02
